@@ -15,11 +15,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-<distributionManagement>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>ip-172-31-90-180.ec2.internal-snapshots</name>
-        <url>http://ec2-54-86-255-232.compute-1.amazonaws.com:8081/artifactory/libs-snapshot-local</url>
-    </snapshotRepository>
-</distributionManagement>
 </project>
